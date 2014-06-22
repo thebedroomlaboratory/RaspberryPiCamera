@@ -8,7 +8,7 @@ RaspberryPiCamera
 1. Install [setuptools](http://www.lfd.uci.edu/~gohlke/pythonlibs/#setuptools)
 2. Install [pip](http://www.lfd.uci.edu/~gohlke/pythonlibs/#pip)
 
-Pip is installed at <PYTHON_HOME>\Scripts\pip.exe. Add the \Scripts folder (```eg. C:\Python27\Scripts```) to your path (Start / Edit environment variables). Now you should be able to run ```pip``` from the command line. 
+Pip is installed at ```<PYTHON_HOME>\Scripts\pip.exe```. Add the \Scripts folder (```eg. C:\Python27\Scripts```) to your path (Start / Edit environment variables). Now you should be able to run ```pip``` from the command line. 
 
 ##Install dependencies
 ```
